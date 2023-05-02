@@ -12,7 +12,7 @@ class TrainOptions(BaseOptions):
         parser.add_argument('--visual_freq', type=int, default=400, help='frequency of show training images in tensorboard')
         parser.add_argument('--print_freq', type=int, default=100, help='frequency of showing training results on console')
         # network saving and loading parameters
-        parser.add_argument('--save_iter_freq', type=int, default=300, help='frequency of saving the models')
+        parser.add_argument('--save_iter_freq', type=int, default=1000, help='frequency of saving the models')
         parser.add_argument('--save_latest_freq', type=int, default=1000, help='save latest freq')
         parser.add_argument('--save_epoch_freq', type=int, default=5, help='frequency of saving checkpoints at the end of epochs')
         parser.add_argument('--save_by_iter', action='store_true', help='whether saves model by iteration')
