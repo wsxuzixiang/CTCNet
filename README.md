@@ -3,7 +3,7 @@
 [A CNN-Transformer Cooperation Network for Face Image Super-Resolution](https://arxiv.org/abs/2204.08696v2)  
 [**Guangwei Gao**](https://guangweigao.github.io/), [Zixiang Xu](https://github.com/wsxuzixiang)
 
-![example result](example.gif)
+![example result](https://github.com/wsxuzixiang/CTCNet/blob/main/Network.png)
 
 ## Installation and Requirements 
 
