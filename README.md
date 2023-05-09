@@ -7,6 +7,8 @@
 
 ## Comparisons for ✖️8 SR on the CelebA test set.
 ![example result](https://github.com/wsxuzixiang/CTCNet/blob/main/img/compare_CelebA_0213.png)
+
+
 ![example result](https://github.com/wsxuzixiang/CTCNet/blob/main/img/Snipaste_2023-05-09_22-20-55.png)
 
 
